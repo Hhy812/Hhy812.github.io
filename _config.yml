@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar: "head.jpg"
-  name: "你的名字"
+  name: "韩浩宇"
   bio: "欢迎来到我的个人主页~"
   location: "Earth"
   employer: "CSU"
